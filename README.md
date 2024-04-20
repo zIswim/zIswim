@@ -1,5 +1,5 @@
 ### 지수영입니다.👋
-
+#### email : wltndud@jbnu.ac.kr
 <!--
 **sue1010/sue1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
