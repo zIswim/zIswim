@@ -1,5 +1,19 @@
 <div align = "center"> <h3> I'm Ji Suyeong 👋 </h3></div><br>
 
+
+<!--gif-->
+<p align = "center">
+  <img src = https://github.com/zIswim/zIswim/assets/68096801/144f8057-5f30-47d0-9f14-4e764bf13bbb>
+</p>
+
+
+<br>
+<h3 align="center"> :bar_chart: MOST USED :bar_chart: </h4>
+<p align = center>
+<img src = https://github-readme-stats.vercel.app/api/top-langs/?username=zIswim&layout=compact>
+</p><br>
+
+
 <div align = "center"> <h3>🌱 I’m currently learning 🌱 </h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
@@ -12,18 +26,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br><br>
-
-
-<!--gif-->
-<p align = "center">
-  <img src = https://github.com/zIswim/zIswim/assets/68096801/144f8057-5f30-47d0-9f14-4e764bf13bbb>
-</p>
-
-<br>
-<h3 align="center"> :bar_chart: MOST USED :bar_chart: </h4>
-<p align = center>
-<img src = https://github-readme-stats.vercel.app/api/top-langs/?username=zIswim&layout=compact>
-</p>
 
 <br>
 <div align = "center">
