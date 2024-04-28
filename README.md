@@ -1,12 +1,18 @@
-<div align = "center"> <h3> :alien: 지수영입니다👋 </h3></div>
+<div align = "center"> <h3> I'm Ji Suyeong 👋 </h3></div><br>
+
+<div align = "center"> <h3>🌱 I’m currently learning 🌱 </h3>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+ 
+ <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <br>
+ 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 <br><br>
 
-<!-- <div align = "center">
- <b> email : </b> <a href>wltndud@jbnu.ac.kr</a>
-  <br><br>
- <b> notion(2024) : </b> <a href>https://www.notion.so/2fa51ed5bfb645b4a537187927d0bd69?v=9bd12744760945b78eac10478c35ba5b&pvs=4</a>
-</div>
-<br> -->
 
 <!--gif-->
 <p align = "center">
