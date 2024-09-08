@@ -1,5 +1,6 @@
 <div align = "center"> <h3> I'm Ji Suyeong 👋 </h3></div><br>
-
+<div align = "center"> portfolio : https://ziswim.github.io/zIswimfolio/ (수정중) </div>
+<br>
    
 <!--gif-->
 <p align = "center">
